@@ -1,0 +1,3 @@
+# README.md - Bot de Convocatorias sin Cuota (Versión Render.com)
+...
+# Usa el contenido del README.md que ya generamos antes
